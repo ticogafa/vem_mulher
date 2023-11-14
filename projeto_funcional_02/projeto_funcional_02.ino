@@ -70,6 +70,9 @@ void leituraRfid(){
   if (strID.indexOf("27:41:AA:AB") >= 0) {
   }else{
     bluetooth.println("ALERTA ACIONADO!");
+    bluetooth.print("LINHA 513 - CÓRREGO DA AREIA");
+    bluetooth.println("ROTA EM TEMPO REAL: ");
+    bluetooth.print("https://moovitapp.com/recife-1662/lines/513/85381377/6310148/pt-br?ref=2&poiType=line&abTest=Control_Mini_splash_all_click_to_web_app_LINE_14383&customerId=4908&af_sub8=%2Findex%2Fpt-br%2Ftransporte_p%25C3%25BAblico-line-513-Recife-1662-3115090-85381377-0&af_sub9=Change%20Direction");
     digitalWrite(pinoLedVermelho, HIGH);
     delay(3000);
     digitalWrite(pinoLedVermelho, LOW);
