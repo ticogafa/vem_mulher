@@ -1,16 +1,14 @@
 ## Vem Mulher - Projeto Smart Cities
 
 ### 📝 Descrição do projeto
-Nosso projeto visa a promoção da segurança da mulher em transporte público no Brasil, com destaque em ônibus, assim contribuindo para tornar a cidade mais inteligente através de denúncias mais práticas e rápidas de casos de 
-assédio nesses meios.
+Nossa iniciativa tem como foco primordial promover a segurança das mulheres nos transportes públicos brasileiros, com especial atenção aos ônibus, contribuindo assim para a construção de cidades mais seguras e inteligentes. Buscamos facilitar e agilizar as denúncias de assédio nesses meios.
 
-O objetivo desse projeto é prezar pela discrição da mulher ao realizar a denúncia, que são feitas através de _tags "disfarçadas" de chaveiro pompom (ou pelúcia)_, no qual a vítima iria _aproximar ao leitor do Vem Mulher_, e assim, informações como a localização e número de identificação do ônibus, horário do ocorrido e nome da vítima seriam enviadas de forma imediata para os órgãos competentes.
-
+O principal objetivo desse projeto é assegurar a discrição das mulheres ao realizarem suas denúncias. Para isso, _utilizamos tags discretas em formato de chaveiro pompom (ou pelúcia), que as vítimas podem aproximar do leitor do 'Vem Mulher'_. Essas tags contêm informações como localização, número de identificação do ônibus, horário do incidente e o nome da vítima. Tais detalhes são imediatamente encaminhados aos órgãos competentes."
 ### 📚 Funcionalidades
 * Detecção de RFID
 * Registro de localização e hora ao acionar o RFID
 * Conexão via Bluetooth para saída de dados
-* Contador
+* Contador de ocorrências
 
 ### 🔧 Tecnologias utilizadas
 * Arduino Nano
@@ -31,6 +29,7 @@ O objetivo desse projeto é prezar pela discrição da mulher ao realizar a den�
 * SPI
 4. Após dar upload do código na placa Arduino, é necessário parear o seu dispositível móvel com o módulo Bluetooth (normalmente o nome exibido é "Bluetooth19") e acessar o aplicativo "Serial Bluetooth Terminal" para ter acesso à saída do Vem Mulher.
 
+### ❓Considerações
 ### 🤝 Colaboradores
 
 
