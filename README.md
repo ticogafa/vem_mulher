@@ -29,7 +29,17 @@ O principal objetivo desse projeto é assegurar a discrição das mulheres ao re
 * SPI
 4. Após dar upload do código na placa Arduino, é necessário parear o seu dispositível móvel com o módulo Bluetooth (normalmente o nome exibido é "Bluetooth19") e acessar o aplicativo "Serial Bluetooth Terminal" para ter acesso à saída do Vem Mulher.
 
-### ❓Considerações
 ### 🤝 Colaboradores
-
-
+CC-A ARTHUR DE ASSIS BORGES 
+DG-A AMANDA 
+DG-A BRUNO HENRIQUE ROLIM NERY 
+CC-A CAIO CORREIA PACHECO NAPOLEÃO BELARMINO 
+CC-A CLARA MACHADO DE ARAÚJO 
+DG-A JÚLIA FURTADO DE MENDONÇA SILVA 
+CC-A JÚLIA SALES NOVAIS  
+DG-A MARIA GABRIELA ROQUE DA MATTA TABOSA DE SOUZA 
+CC-A MATHEUS VELAME PESSOA 
+CC-A RAFAEL ANDRADE LEITE BARROS 
+CC-A TIAGO GURGEL AMORIM FERREIRA DE ABREU 
+----------------------------------------------
+Projeto feito pela disciplina de Projetos 1 da Cesar School
