@@ -30,8 +30,10 @@ O principal objetivo desse projeto é assegurar a discrição das mulheres ao re
 4. Após dar upload do código na placa Arduino, é necessário parear o seu dispositível móvel com o módulo Bluetooth (normalmente o nome exibido é "Bluetooth19") e acessar o aplicativo "Serial Bluetooth Terminal" para ter acesso à saída do Vem Mulher.
 
 ### 🤝 Colaboradores
+Nós somos o G3 e somos compostos por:
+---------------------------------------------
 CC-A ARTHUR DE ASSIS BORGES 
-DG-A AMANDA 
+DG-A AMANDA MARIA SANTANA DE LIMA 
 DG-A BRUNO HENRIQUE ROLIM NERY 
 CC-A CAIO CORREIA PACHECO NAPOLEÃO BELARMINO 
 CC-A CLARA MACHADO DE ARAÚJO 
