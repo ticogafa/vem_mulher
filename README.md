@@ -2,6 +2,7 @@
 
 ### 📝 Descrição do projeto
   A iniciativa 'Vem Mulher' tem como objetivo primordial promover a segurança das mulheres nos transportes públicos brasileiros, com especial ênfase nos ônibus, assim visando contribuir para a construção de cidades mais seguras e inteligentes.
+  
   O principal propósito deste projeto é facilitar e agilizar as denúncias de assédio nesses meios, ao mesmo tempo em que assegura a discrição das mulheres durante o processo de denúncia. Para isso, utilizamos _tags discretas em formato de chaveiro pompom (ou pelúcia), que as vítimas podem aproximar do leitor do 'Vem Mulher'_. Essas tags contêm informações cruciais, como localização, número de identificação do ônibus, horário do incidente e o nome da vítima. Tais detalhes são imediatamente encaminhados aos órgãos competentes.
 
 ### 📚 Funcionalidades
