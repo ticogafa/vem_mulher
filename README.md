@@ -14,7 +14,7 @@
 ### 🔧 Tecnologias utilizadas
 * Arduino Nano
 * Módulo RFID MFRC522
-* Tag RFID (embutido no chaveiro)
+* Tag RFID (embutida no chaveiro)
 * Módulo bluetooth HC-06
 * Aplicativo "Serial Bluetooth Terminal"
 
