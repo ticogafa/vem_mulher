@@ -26,7 +26,7 @@
 * Wire
 * MFRC522
 * SPI
-4. Após dar upload do código na placa Arduino, é necessário parear o seu dispositível móvel com o módulo Bluetooth (normalmente o nome exibido é "Bluetooth19") e acessar o aplicativo "Serial Bluetooth Terminal" para ter acesso à saída do Vem Mulher.
+4. Após dar upload do código na placa Arduino, é necessário parear o seu dispositível móvel com o módulo Bluetooth (normalmente o nome exibido é "Bluetooth19" e a senha é: 1234) e acessar o aplicativo "Serial Bluetooth Terminal" para ter acesso à saída do Vem Mulher.
 
 ### 🤝 Colaboradores
 Nós somos o G3 e somos compostos por:
