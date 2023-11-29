@@ -1,9 +1,8 @@
 ## Vem Mulher - Projeto Smart Cities
 
 ### 📝 Descrição do projeto
-Nossa iniciativa tem como foco primordial promover a segurança das mulheres nos transportes públicos brasileiros, com especial atenção aos ônibus, contribuindo assim para a construção de cidades mais seguras e inteligentes. Buscamos facilitar e agilizar as denúncias de assédio nesses meios.
-
-O principal objetivo desse projeto é assegurar a discrição das mulheres ao realizarem suas denúncias. Para isso, _utilizamos tags discretas em formato de chaveiro pompom (ou pelúcia), que as vítimas podem aproximar do leitor do 'Vem Mulher'_. Essas tags contêm informações como localização, número de identificação do ônibus, horário do incidente e o nome da vítima. Tais detalhes são imediatamente encaminhados aos órgãos competentes."
+  A iniciativa 'Vem Mulher' tem como objetivo primordial promover a segurança das mulheres nos transportes públicos brasileiros, com especial ênfase nos ônibus, assim visando contribuir para a construção de cidades mais seguras e inteligentes.
+  O principal propósito deste projeto é facilitar e agilizar as denúncias de assédio nesses meios, ao mesmo tempo em que assegura a discrição das mulheres durante o processo de denúncia. Para isso, utilizamos _tags discretas em formato de chaveiro pompom (ou pelúcia), que as vítimas podem aproximar do leitor do 'Vem Mulher'_. Essas tags contêm informações cruciais, como localização, número de identificação do ônibus, horário do incidente e o nome da vítima. Tais detalhes são imediatamente encaminhados aos órgãos competentes.
 
 ### 📚 Funcionalidades
 * Detecção de RFID
@@ -14,7 +13,7 @@ O principal objetivo desse projeto é assegurar a discrição das mulheres ao re
 ### 🔧 Tecnologias utilizadas
 * Arduino Nano
 * Módulo RFID MFRC522
-* Tag RFID (imbutido no chaveiro)
+* Tag RFID (embutido no chaveiro)
 * Módulo bluetooth HC-06
 * Aplicativo "Serial Bluetooth Terminal"
 
@@ -31,16 +30,16 @@ O principal objetivo desse projeto é assegurar a discrição das mulheres ao re
 ### 🤝 Colaboradores
 Nós somos o G3 e somos compostos por:
 ---------------------------------------------
-CC-A ARTHUR DE ASSIS BORGES 
-DG-A AMANDA MARIA SANTANA DE LIMA 
-DG-A BRUNO HENRIQUE ROLIM NERY 
-CC-A CAIO CORREIA PACHECO NAPOLEÃO BELARMINO 
-CC-A CLARA MACHADO DE ARAÚJO 
-DG-A JÚLIA FURTADO DE MENDONÇA SILVA 
-CC-A JÚLIA SALES NOVAIS  
-DG-A MARIA GABRIELA ROQUE DA MATTA TABOSA DE SOUZA 
-CC-A MATHEUS VELAME PESSOA 
-CC-A RAFAEL ANDRADE LEITE BARROS 
-CC-A TIAGO GURGEL AMORIM FERREIRA DE ABREU 
+* CC-A ARTHUR DE ASSIS BORGES 
+* DG-A AMANDA MARIA SANTANA DE LIMA 
+* DG-A BRUNO HENRIQUE ROLIM NERY 
+* CC-A CAIO CORREIA PACHECO NAPOLEÃO BELARMINO 
+* CC-A CLARA MACHADO DE ARAÚJO 
+* DG-A JÚLIA FURTADO DE MENDONÇA SILVA 
+* CC-A JÚLIA SALES NOVAIS  
+* DG-A MARIA GABRIELA ROQUE DA MATTA TABOSA DE SOUZA 
+* CC-A MATHEUS VELAME PESSOA 
+* CC-A RAFAEL ANDRADE LEITE BARROS 
+* CC-A TIAGO GURGEL AMORIM FERREIRA DE ABREU 
 ----------------------------------------------
 Projeto feito pela disciplina de Projetos 1 da Cesar School
